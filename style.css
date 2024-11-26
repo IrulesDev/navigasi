@@ -30,7 +30,7 @@ body{
     background-color: chocolate;
     border-radius: 4px;
 }
-img{
+img.luvy{
     width: 61px;
     z-index: 3;
     position: fixed;
@@ -38,4 +38,21 @@ img{
     top: -1.5%;
     margin: 0;
     padding: 0;
+}
+h2{
+    text-align: center;
+    top: 30%;
+    margin: 50px;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: georgia;
+    margin: 35%;
+}
+img.css{
+    margin: 28%;
+    padding: 0;
+    width: 250px;
+    top: -5%;
+    position: absolute;
+    z-index: -1; 
 }
